@@ -8,7 +8,7 @@ function Jumbotron() {
     <Card className="jumbotron-card">
       <Card.Img className="jumbotron-img " src={Image} />
       <Card.Body className="body-card">
-        <Card.Title className="title-card">waysbucks</Card.Title>
+        <Card.Title className="title-card">Syarief</Card.Title>
         <Card.Text className="text-card">
           Things are changing, but we're still here for you
         </Card.Text>
